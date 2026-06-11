@@ -1,6 +1,6 @@
-<h1>Hi 👋, I'm Prist</h1>
+<h1>Hi, I'm Prist</h1>
 <p>Hi there, I'm a  Biomedical Engineering graduate with a strong interest in Machine Learning, Deep Learning, Data Science, and Research. I enjoy working on projects that bridge healthcare and technology, and I'm always eager to learn and contribute to impactful work.  Currently exploring: - Medical image analysis - Neural networks and deep learning architectures - Data-driven research in healthcare .</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2> Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
